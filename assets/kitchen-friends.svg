@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 390" fill="none">
+<defs><pattern id="checks" width="32" height="32" patternUnits="userSpaceOnUse"><rect width="32" height="32" fill="#fff2e4"/><path d="M0 0h16v32H0zM0 0h32v16H0z" fill="#f5dcc5" opacity=".4"/></pattern></defs>
+<path d="M115 317C24 282 55 153 136 105C200 61 264 76 294 46C368-20 529 36 553 139C609 235 550 334 463 347Z" fill="#f3dcd1" opacity=".5"/>
+<path d="M83 308q205-39 454 0v44H83z" fill="url(#checks)"/><ellipse cx="307" cy="326" rx="207" ry="15" fill="#eac9b8" opacity=".5"/>
+<g stroke="#91604c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<!-- bear chef -->
+<path d="M126 288q-3-62 52-74q58-6 76 61l-8 35H133z" fill="#d9b080"/>
+<path d="M149 235q31 12 54-1l20 74h-84z" fill="#c1cab3"/><path d="M156 234l-8 39m48-39 9 39"/>
+<path d="M167 275h28v22h-28z" fill="#e9eedc"/><path d="M178 282c-7-5-10 3 3 10c12-9 6-14 0-10" fill="#d48787" stroke="none"/>
+<circle cx="128" cy="143" r="22" fill="#d9ae7d"/><circle cx="227" cy="143" r="22" fill="#d9ae7d"/>
+<circle cx="128" cy="143" r="12" fill="#be8e69" stroke="none"/><circle cx="227" cy="143" r="12" fill="#be8e69" stroke="none"/>
+<ellipse cx="177" cy="180" rx="64" ry="58" fill="#e7bf8d"/>
+<path d="M138 134q-21-21 0-34q0-25 26-21q20-22 39 2q28-3 26 20q18 20-3 35z" fill="#fffdf5"/>
+<path d="M138 133q40 7 88 0"/><path d="M161 111v9m31-13 1 13" stroke="#e5c7ae"/>
+<path d="M155 177v4m43-4v4" stroke-width="5"/>
+<ellipse cx="177" cy="195" rx="16" ry="12" fill="#f6dbc0" stroke="none"/><path d="M172 191q5-5 10 0q-5 7-10 0" fill="#91604c" stroke="none"/><path d="M177 194v5m0-1q-7 7-11 0m11 0q6 7 11 0"/>
+<ellipse cx="140" cy="192" rx="10" ry="6" fill="#e99e96" stroke="none"/><ellipse cx="214" cy="192" rx="10" ry="6" fill="#e99e96" stroke="none"/>
+<!-- rabbit chef -->
+<path d="M367 285q9-62 59-69q53-5 61 69l-9 25H377z" fill="#fffbec"/>
+<path d="M398 235q22 12 45-1l25 74h-80z" fill="#e6a6a4"/><path d="M406 236l-8 33m36-33 8 33"/><path d="M418 277h25v21h-25z" fill="#f5cfca"/>
+<path d="M395 139q-41-73-13-86q30-10 38 82m15-1q-1-81 26-79q30 5 1 88" fill="#fff9e9"/>
+<path d="M396 122q-22-48-13-52q10-3 21 51m40-2q6-46 15-45q11 5-3 49" stroke="#eab6b0" stroke-width="9"/>
+<ellipse cx="427" cy="182" rx="62" ry="56" fill="#fff9e9"/>
+<path d="M388 136q-7-21 13-25q7-22 28-11q22-11 30 10q21 3 12 26z" fill="#fffef8"/>
+<path d="M389 136q41 6 80 0"/><path d="M412 119v8m30-10v10" stroke="#e6cdb9"/>
+<path d="M408 178v4m40-4v4" stroke-width="5"/><path d="M422 194l6 4l6-4"/><path d="M428 198q-6 9-13 1m13-1q6 9 13 1"/>
+<ellipse cx="390" cy="194" rx="10" ry="6" fill="#ecaaa4" stroke="none"/><ellipse cx="464" cy="194" rx="10" ry="6" fill="#ecaaa4" stroke="none"/>
+<path d="M462 150q16-17 24-4q0 11-23 16q-4-20-16-16q-10 10 15 17" fill="#d68c91" stroke-width="2"/>
+<!-- pot and hands -->
+<path d="M244 252q-12-19-25-13q-11 10 8 26l30 17" fill="#e7bf8d"/>
+<path d="M370 251q11-20 24-13q13 12-8 28l-26 14" fill="#fff9e9"/>
+<path d="M249 259h121v43q-2 23-59 23q-58 0-62-23z" fill="#cc8490"/>
+<ellipse cx="310" cy="259" rx="61" ry="13" fill="#f5bec0"/>
+<ellipse cx="310" cy="257" rx="49" ry="8" fill="#f5d791" stroke-width="2"/>
+<path d="M249 270h-15q-15 0-12 14q0 7 27 6m121-20h14q15 0 12 14q-1 7-26 6"/>
+<path d="M310 288c-15-13-23 3 0 16c23-13 15-29 0-16" fill="#fbe4d6" stroke="none"/>
+<path d="M278 231q-15-16 0-30m30 34q-17-19 0-39m31 35q-15-14 0-29" stroke="#c99784" opacity=".6"/>
+<path d="M241 243l-18-47"/><ellipse cx="220" cy="186" rx="9" ry="15" transform="rotate(-18 220 186)" fill="#b7926d"/>
+</g>
+<g fill="#cf8490"><path d="M305 95c-23-20-37 7 0 27c37-20 23-47 0-27"/><path d="M97 205c-13-12-23 4 0 16c23-12 13-28 0-16"/><path d="M530 187c-12-11-20 4 0 14c20-10 12-25 0-14"/></g>
+<g stroke="#bc9b6d" stroke-width="2.5" stroke-linecap="round"><path d="M79 114v16m-8-8h16m448-31v16m-8-8h16m-9 162v12m-6-6h12"/></g>
+<g fill="#d6ae84"><circle cx="277" cy="63" r="3"/><circle cx="497" cy="230" r="3"/><circle cx="92" cy="252" r="3"/></g>
+<text x="310" y="375" fill="#b78673" font-family="sans-serif" font-size="11" text-anchor="middle" letter-spacing="4">A LITTLE LOVE IN EVERY BITE</text>
+</svg>
